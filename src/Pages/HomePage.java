@@ -6,6 +6,7 @@ public class HomePage {
 		// TODO Auto-generated method stub
 System.out.println("HomePageeeee");
 int j=12;
+int k=333;
 	}
 
 }
