@@ -6,6 +6,10 @@ public class HomePage {
 		// TODO Auto-generated method stub
 System.out.println("HomePageeeee");
 int j=12;
+int k=333; 
+String city= "Chandigarh";
+String country="INDIA";
+String gender ="male";
 	}
 
 }
